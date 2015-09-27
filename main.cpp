@@ -1,7 +1,6 @@
-#include　<iostream>
-
-int　main()
+#include <iostream>
+int main()
 {
-std::cout　<<　"Hello world!\n";
-return　0;
+std::cout <<"Hello Twinkle!\n";
+return 0;
 }
